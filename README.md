@@ -1,2 +1,2 @@
-# privacy-policy
-Finnegan's Brew, LLC Privacy Policy
+# policy
+Finnegan's Brew, LLC Policies
